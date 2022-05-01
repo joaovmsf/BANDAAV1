@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BANDAAV1.View", "BANDAAV1.View\BANDAAV1.View.csproj", "{FEA83386-E1D6-403F-9722-9FA253A4AA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BANDAAV1.Model", "BANDAAV1.Model\BANDAAV1.Model.csproj", "{696CF3F0-487C-4550-B906-19B8989DD1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA83386-E1D6-403F-9722-9FA253A4AA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA83386-E1D6-403F-9722-9FA253A4AA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA83386-E1D6-403F-9722-9FA253A4AA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA83386-E1D6-403F-9722-9FA253A4AA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696CF3F0-487C-4550-B906-19B8989DD1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696CF3F0-487C-4550-B906-19B8989DD1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696CF3F0-487C-4550-B906-19B8989DD1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696CF3F0-487C-4550-B906-19B8989DD1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A46B792-C36F-4F7D-B4F0-26EBDAB0512D}
+	EndGlobalSection
+EndGlobal
